@@ -6,7 +6,7 @@ function AccountContainer(props) {
   console.log(props);
   return (  
     <div>
-      <h1>Customer Account Details</h1>
+      <h1>Customer Account</h1>
 
       <AddAccount account={props.account} />
 
